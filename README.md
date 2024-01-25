@@ -2,7 +2,7 @@
 ## Table of Contents
 
 1. [Description](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#descrption)
-2. installation
+2. [Installation](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#installation-instructions)
 3. usage
 4. demo video
 5. questions

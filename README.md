@@ -1,6 +1,23 @@
 # advanced-CSS-portfolio
-## Table of contents
+## Table of Contents
+
+1. description
+2. installation
+3. usage
+4. demo video
+5. questions
+
+## Descrption
 My first from-scratch HTML and CSS portfolio.
+
+## Installation Instructions
+This application uses HTML, and CSS.
+
+## Usage Information
+Page link will open the website, 
+
+## Link to Deployed Site
+
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio

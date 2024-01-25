@@ -1,7 +1,7 @@
 # advanced-CSS-portfolio
 ## Table of Contents
 
-1. description
+1. description(https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#descrption)
 2. installation
 3. usage
 4. demo video

@@ -3,9 +3,9 @@
 
 1. [Description](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#descrption)
 2. [Installation](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#installation-instructions)
-3. usage
-4. demo video
-5. questions
+3. [Usage](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#usage-information)
+4. [Demo]()
+5. [Questions]()
 
 ## Descrption
 My first from-scratch HTML and CSS portfolio.

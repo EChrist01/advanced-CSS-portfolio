@@ -1,4 +1,5 @@
 # advanced-CSS-portfolio
+## Table of contents
 My first from-scratch HTML and CSS portfolio.
 
 GIVEN I need to sample a potential employee's previous work

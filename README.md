@@ -4,19 +4,19 @@
 1. [Description](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#descrption)
 2. [Installation](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#installation-instructions)
 3. [Usage](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#usage-information)
-4. [Demo]()
+4. [Demo](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#link-to-deployed-site)
 5. [Questions]()
 
-## Descrption
+## Descrption.
 My first from-scratch HTML and CSS portfolio.
 
-## Installation Instructions
+## Installation Instructions.
 This application uses HTML, and CSS.
 
-## Usage Information
+## Usage Information.
 Page link will open the website, 
 
-## Link to Deployed Site
+## Demo.
 
 
 GIVEN I need to sample a potential employee's previous work

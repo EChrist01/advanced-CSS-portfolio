@@ -5,19 +5,10 @@
 2. [Installation](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#installation-instructions)
 3. [Usage](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#usage-information)
 4. [Demo](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#link-to-deployed-site)
-5. [Questions]()
+5. [Questions](https://github.com/EChrist01/advanced-CSS-portfolio/blob/main/README.md#questions)
 
 ## Descrption.
 My first from-scratch HTML and CSS portfolio.
-
-## Installation Instructions.
-This application uses HTML, and CSS.
-
-## Usage Information.
-Page link will open the website, 
-
-## Demo.
-
 
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
@@ -32,6 +23,14 @@ WHEN I click on the images of the applications
 THEN I am taken to that deployed application
 WHEN I resize the page or view the site on various screens and devices
 THEN I am presented with a responsive layout that adapts to my viewport
+
+## Installation Instructions.
+This application uses HTML, and CSS.
+
+## Usage Information.
+Page link will open the website, 
+
+## Demo.
 
 ## Questions
 Github profile: 

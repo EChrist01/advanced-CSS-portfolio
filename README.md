@@ -10,6 +10,8 @@
 ## Descrption.
 My first from-scratch HTML and CSS portfolio.
 
+![Screenshot 2024-01-29 125511](https://github.com/EChrist01/advanced-CSS-portfolio/assets/146894896/f9cdc082-b010-464c-bd49-852c48a76d9e)
+
 GIVEN I need to sample a potential employee's previous work
 WHEN I load their portfolio
 THEN I am presented with the developer's name, a recent photo or avatar, and links to sections about them, their work, and how to contact them

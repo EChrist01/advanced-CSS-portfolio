@@ -36,7 +36,7 @@ enhance page layout,
 improve css.
 
 ## Demo.
+[link to page:](https://echrist01.github.io/advanced-CSS-portfolio/)
 
-## Questions
-Github profile: 
+## Questions 
 Email: Ethanchrist02@gmail.com

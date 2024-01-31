@@ -30,7 +30,10 @@ THEN I am presented with a responsive layout that adapts to my viewport
 This application uses HTML, and CSS.
 
 ## Usage Information.
-Page link will open the website, 
+Need to add: 
+button functionality,
+enhance page layout,
+improve css.
 
 ## Demo.
 
